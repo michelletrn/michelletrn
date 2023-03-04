@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Michelle!</h1>
 <h3 align="center">A passionate full stack web developer based in New Jersey!</h3>
 
-
 - 🔭 I’m currently working on [SelfJournalPost](https://github.com/michelletrn/selfjournalpost)
 
 - 🌱 I’m currently learning **MERN stack**
@@ -15,7 +14,7 @@
 
 - 📄 Know about my experiences [https://michelletrn.github.io/react-portfolio/static/media/MTran-resume.699f4597c4d50177548f.pdf](https://michelletrn.github.io/react-portfolio/static/media/MTran-resume.699f4597c4d50177548f.pdf)
 
-- ⚡ Fun fact **Darker roasted coffee beans are less caffeinated**
+- ⚡ Fun fact: **Darker roasted coffee beans are less caffeinated**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
