@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Michelle!</h1>
 <h3 align="center">A passionate full stack web developer based in New Jersey!</h3>
 
-- 🔭 I’m currently working on [SelfJournalPost](https://github.com/michelletrn/selfjournalpost)
+- 🔭 I’m currently working on [CoDev](https://github.com/Val-gee/codev)
 
 - 🌱 I’m currently learning **MERN stack**
 
